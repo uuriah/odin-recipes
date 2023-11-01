@@ -22,8 +22,11 @@ p{
 .next{
     text-align:right;
 }
-a:visited{
+a:link{
     color:aquamarine;
+}
+a:visited{
+    color:rgb(103, 105, 240);
 }
 a:hover{
     color:blueviolet;
