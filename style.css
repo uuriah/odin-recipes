@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(49, 49, 49);
+    border-left: 100px solid rgb(49, 49, 49);
+
+    border-right: 100px solid rgb(49, 49, 49)
+}
+h1{
+    color:rgb(207, 205, 205);
+    text-align: center;
+}
+h2,
+h4,
+li,
+p{
+    color:rgb(207, 205, 205)
+}
+.recipe-links {
+    text-align: center;
+    font-size: 20px;
+    color:rgb(207, 205, 205);
+}
+.next{
+    text-align:right;
+}
+a:visited{
+    color:aquamarine;
+}
+a:hover{
+    color:blueviolet;
+}
+.gif{
+    text-align: center;
+}
