@@ -1,6 +1,8 @@
 body{
     font-family: Arial, Verdana;
     background-color: rgb(49, 49, 49);
+    margin-left:50px;
+    margin-right:50px;
     padding: 125;
 }
 h1{
