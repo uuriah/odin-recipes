@@ -13,6 +13,9 @@ li,
 p{
     color:rgb(207, 205, 205)
 }
+img{
+    border-radius: 10px;
+}
 button,
 .page{
     background-color: orangered; 
@@ -27,6 +30,7 @@ button,
 button{
     padding: 10px 15px;
     font-size: 16px;
+    border-radius: 10px;
 }
 
 .recipe-links {
